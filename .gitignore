@@ -1,0 +1,4 @@
+# IDE Extensions & Caches
+extensions/
+.antigravity-ide/
+*.log
